@@ -21,9 +21,9 @@ In our code, we are writing to the pin V1 on Blynk, the value that we provide th
 
 // Template ID, Device Name and Auth Token are provided by the Blynk.Cloud
 // See the Device Info tab, or Template settings
-#define BLYNK_TEMPLATE_ID           "TMPLPXZdwQAL"
-#define BLYNK_DEVICE_NAME           "Final Project"
-#define BLYNK_AUTH_TOKEN            "T4RKYST1SMo4aGuyMFKWBCaM2zdJRkxs"
+#define BLYNK_TEMPLATE_ID "<BLINK_CREDS_HERE>"
+#define BLYNK_DEVICE_NAME "<BLINK_CREDS_HERE>"
+#define BLYNK_AUTH_TOKEN "<BLINK_CREDS_HERE>"
 
 // Comment this out to disable prints and save space
 #define BLYNK_PRINT SerialUSB

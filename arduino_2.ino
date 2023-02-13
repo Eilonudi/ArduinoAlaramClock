@@ -12,9 +12,9 @@ In our code, we are writing to the pin V1 on Blynk, the value that we provide th
 
 //Blynk cradentials
 
-#define BLYNK_TEMPLATE_ID "TMPLPXZdwQAL"
-#define BLYNK_DEVICE_NAME "Final Project"
-#define BLYNK_AUTH_TOKEN "T4RKYST1SMo4aGuyMFKWBCaM2zdJRkxs"
+#define BLYNK_TEMPLATE_ID "<BLINK_CREDS_HERE>"
+#define BLYNK_DEVICE_NAME "<BLINK_CREDS_HERE>"
+#define BLYNK_AUTH_TOKEN "<BLINK_CREDS_HERE>"
 
 //Defining some basic Colors for the lights
 #define PURPLE 0xA040EA
